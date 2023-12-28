@@ -1,0 +1,50 @@
+body {
+    background-color: aqua;
+}
+
+div {
+    width: 600px;
+    height: 450px;
+    background-color: white;
+    margin-top: 150px;
+}
+
+h1 {
+    color: black;
+    font-size: 45px;
+    font-weight: 600;
+    margin-right: 100px;
+}
+
+input[type=email] {
+    width: 400px;
+    height: 40px;
+    margin-right: 40px;
+}
+
+input[type=password] {
+    width: 400px;
+    height: 40px;
+    margin-right: 40px;
+    background-image: url('../Images/eye.png');
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+span {
+    margin-right: 300px;
+}
+
+id1 {
+    margin-right: 100px;
+}
+
+input[type=submit] {
+    width: 100px;
+    height: 40px;
+    margin-right: 300px;
+    margin-top: 40px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+}

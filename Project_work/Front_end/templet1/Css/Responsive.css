@@ -1,0 +1,66 @@
+body {
+    background-color: darkgrey;
+}
+
+div {
+    height: 600px;
+    width: 500px;
+    background-color: white;
+    padding-top: 20px;
+    margin-top: 60px;
+}
+
+h1 {
+    font-size: 30px;
+    font-weight: 800;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+input[type=email] {
+    height: 30px;
+    width: 260px;
+}
+
+input[type=password] {
+    height: 30px;
+    width: 260px;
+}
+
+input[type=ani1] {
+    height: 30px;
+    width: 260px;
+}
+
+input[type=ani2] {
+    height: 30px;
+    width: 130px;
+}
+
+input[type=ani3] {
+    height: 30px;
+    width: 130px;
+}
+
+#id1 {
+    height: 30px;
+    width: 260px;
+}
+
+.ani4 {
+    margin-right: 30px;
+}
+
+.ani5 {
+    margin-right: 42px;
+}
+
+input[type=button] {
+    height: 30px;
+    width: 260px;
+    color: white;
+    background-color: darkorange;
+}
+
+.ani6 {
+    margin-right: 150px;
+}

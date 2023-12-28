@@ -1,0 +1,68 @@
+body {
+    background-color: darkgrey;
+}
+
+.main {
+    height: 400px;
+    width: 700px;
+    background-color: white;
+    border-radius: 5px;
+    margin-top: 150px;
+    background-image: url(../Images/purple.png);
+    background-repeat: no-repeat;
+    background-position-x: 400px;
+    border-radius: 2px;
+    background-size: 300px;
+}
+
+h1 {
+    font-size: 25px;
+    font-weight: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 20px;
+    color: saddlebrown;
+    ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-right: 500px;
+}
+
+h5 {
+    margin-right: 380px;
+}
+
+input[type=email] {
+    height: 30px;
+    width: 250px;
+    margin-right: 340px;
+    border-radius: 5px;
+}
+
+input[type=password] {
+    height: 30px;
+    width: 250px;
+    margin-right: 340px;
+    border-radius: 5px;
+}
+
+span {
+    margin-right: 450px;
+    font-size: 15px;
+}
+
+input[type=submit] {
+    height: 25px;
+    width: 60px;
+    margin-right: 530px;
+    border-radius: 5px;
+    color: aliceblue;
+    background-color: saddlebrown;
+}
+
+#id1 {
+    margin-right: 450px;
+    font-size: 15px;
+}
+
+#id2 {
+    margin-right: 360px;
+}
